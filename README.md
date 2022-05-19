@@ -6,11 +6,5 @@
 
 <br>
 
-## ☎ Contact & Channel
-+ Email | <a href="mailto:yoonjaej@naver.com" target="_blank">yoonjaej@naver.com</a>
-+ Blog | <a href="https://velog.io/@judool" target="_blank">https://velog.io/@judool/</a>
-
-<br>
-
 ## 🎈 Career
 + 뱅크웨어글로벌(https://bankwareglobal.com) (2021.5 ~ 재직중)
